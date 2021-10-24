@@ -1,5 +1,7 @@
 def main():
     print("hello everyone")
+    greet_white()
+    greet_black()
 
 
 def greet_white():
